@@ -17,8 +17,8 @@ If relevant, provide a list of Data and APIs you used in this project.
 
 ## Team Members
 
-+ [name-of-a-team-member](URL to this member's github account)
-+ [name-of-a-team-member](URL to this member's github account)
-+ [name-of-a-team-member](URL to this member's github account)
-+ [name-of-a-team-member](URL to this member's github account)
-+ [name-of-a-team-member](URL to this member's github account)
++ [Belit Rodriguez](URL to this member's github account)
++ [Cameron Wason](URL to this member's github account)
++ [Nakesh](URL to this member's github account)
++ [Prasshant](URL to this member's github account)
++ [Guillermo Hernandez](URL to this member's github account)
