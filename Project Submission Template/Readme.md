@@ -5,20 +5,18 @@ to us as part of the final process for judging the hackathon.
 
 ## Description
 
-A brief introduction to your project. It should include the motivation behind the project and also how it addresses the challenge statement.
+This project has as a main objective to give realiable infrastructure unformation to everyone while engaging the community.
 
-## Screenshots
+For this objective there should be a synergy between the existing information and the information that the community has available.
 
-If possible, provide a couple screenshots of your project. You can use a tool like https://monosnap.com/welcome or https://droplr.com to take a screenshot. Animated gifs are also welcome.
+As a first ArcGIS is a robust maping solution that can be implemented on many platforms (Javascript, AndroidSDK, iOS SDK, Java, Xcode, .NET and QT) easily which helps us as it eliminates the work of trying to implement different third party solutions which may or not may work seamlessly
 
-## Data/APIs used
-
-If relevant, provide a list of Data and APIs you used in this project.
+Another important part of the project is the way it encourages the community to crowdsource te information it uses on the service to make it more reliable. If a group of people advises about an unfinished project or weather damage on a finished project it can help in the longterm by making the already existing information more reliable.
 
 ## Team Members
 
-+ [Belit Rodriguez](URL to this member's github account)
-+ [Cameron Wason](URL to this member's github account)
-+ [Nakesh](URL to this member's github account)
-+ [Prasshant](URL to this member's github account)
-+ [Guillermo Hernandez](URL to this member's github account)
++ [Belit Rodriguez](https://github.com/gahiareta)
++ [Cameron Watson](https://github.com/dracodarkheart)
++ [Naresh Velmurugan]
++ [Prashanth Katakam]
++ [Guillermo Hernandez]
